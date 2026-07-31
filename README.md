@@ -161,10 +161,16 @@ Enter Choice:
 
 *(Add screenshots of the running application here)*
 
-- `screenshots/menu.png` — Main menu
-- `screenshots/add-student.png` — Adding a student
-- `screenshots/view-students.png` — Viewing all students
-- `screenshots/summary-report.png` — Summary report output
+- `screenshots/Main Menu.png` — Main menu
+- `screenshots/Add Student.png` — Adding a student
+- `screenshots/View Students.png` — Viewing all students
+- `screenshots/Search Student 1.png` — Viewing all students
+- `screenshots/Search Student 2.png` — Viewing all students
+- `screenshots/Update Student.png` — Viewing all students
+- `screenshots/Delete Student.png` — Viewing all students
+- `screenshots/Calculate Result.png` — Viewing all students
+- `screenshots/Summary Report.png` — Summary report output
+- `screenshots/Exit.png` — Viewing all students
 
 ---
 
