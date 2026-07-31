@@ -161,16 +161,35 @@ Enter Choice:
 
 **Screenshots of the running application here**
 
-- `(screenshots/Main Menu.png)` — Main menu
-- `(screenshots/Add Student.png)` — Adding a student
-- `(screenshots/View Students.png)` — Viewing all students
-- `(screenshots/Search Student 1.png)` — Searching students
-- `(screenshots/Search Student 2.png)` — Searching students by name
-- `(screenshots/Update Student.png)` — Updating students
-- `(screenshots/Delete Student.png)` — Deleting students
-- `(screenshots/Calculate Result.png)` — Calculating Result
-- `(screenshots/Summary Report.png)` — Summary report output
-- `(screenshots/Exit.png)` — Exiting the Main Menu
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Add Student
+![Add Student](screenshots/add-student.png)
+
+### View Students
+![View Students](screenshots/view-students.png)
+
+### Search Student by Roll Number
+![Search Roll](screenshots/search-roll.png)
+
+### Search Student by Name
+![Search Name](screenshots/search-name.png)
+
+### Update Student
+![Update Student](screenshots/update-student.png)
+
+### Delete Student
+![Delete Student](screenshots/delete-student.png)
+
+### Calculate Result
+![Calculate Result](screenshots/calculate-result.png)
+
+### Summary Report
+![Summary Report](screenshots/summary-report.png)
+
+### Exit
+![Exit](screenshots/exit.png)
 
 ---
 
