@@ -202,17 +202,6 @@ Enter Choice:
 
 ---
 
-## Future Enhancements
-
-- Export student reports to CSV or PDF.
-- Add attendance tracking alongside grades.
-- Support multiple courses/semesters per student.
-- Add a simple login system for teachers/admins.
-- Add unit tests for `GradeCalculator` and `StudentService`.
-- Optional: build a lightweight GUI (JavaFX) or REST API layer on top of the existing service layer, without altering the core logic.
-
----
-
 ## License
 
 This project is free to use and modify for learning purposes.
