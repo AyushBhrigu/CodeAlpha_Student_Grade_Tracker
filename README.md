@@ -90,7 +90,7 @@ You should see 8 sample student records.
 
 ### 1. Get the MySQL JDBC Driver
 
-Download the **MySQL Connector/J** jar (e.g. `mysql-connector-j-9.0.0.jar`) from the [official MySQL site](https://dev.mysql.com/downloads/connector/j/) and place it inside the project, e.g. in a `lib/` folder:
+Download the **MySQL Connector/J** jar (e.g. `mysql-connector-j-9.7.0.jar`) from the [official MySQL site](https://dev.mysql.com/downloads/connector/j/) and place it inside the project, e.g. in a `lib/` folder:
 
 ```
 StudentGradeTracker/lib/mysql-connector-j-9.0.0.jar
@@ -159,18 +159,18 @@ Enter Choice:
 
 ## Screenshots
 
-*(Add screenshots of the running application here)*
+**Screenshots of the running application here**
 
-- `screenshots/Main Menu.png` — Main menu
-- `screenshots/Add Student.png` — Adding a student
-- `screenshots/View Students.png` — Viewing all students
-- `screenshots/Search Student 1.png` — Searching students
-- `screenshots/Search Student 2.png` — Searching students by name
-- `screenshots/Update Student.png` — Updating students
-- `screenshots/Delete Student.png` — Deleting students
-- `screenshots/Calculate Result.png` — Calculating Result
-- `screenshots/Summary Report.png` — Summary report output
-- `screenshots/Exit.png` — Exiting the Main Menu
+- `(screenshots/Main Menu.png)` — Main menu
+- `(screenshots/Add Student.png)` — Adding a student
+- `(screenshots/View Students.png)` — Viewing all students
+- `(screenshots/Search Student 1.png)` — Searching students
+- `(screenshots/Search Student 2.png)` — Searching students by name
+- `(screenshots/Update Student.png)` — Updating students
+- `(screenshots/Delete Student.png)` — Deleting students
+- `(screenshots/Calculate Result.png)` — Calculating Result
+- `(screenshots/Summary Report.png)` — Summary report output
+- `(screenshots/Exit.png)` — Exiting the Main Menu
 
 ---
 
