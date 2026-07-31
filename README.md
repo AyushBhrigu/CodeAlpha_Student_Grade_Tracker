@@ -93,7 +93,7 @@ You should see 8 sample student records.
 Download the **MySQL Connector/J** jar (e.g. `mysql-connector-j-9.7.0.jar`) from the [official MySQL site](https://dev.mysql.com/downloads/connector/j/) and place it inside the project, e.g. in a `lib/` folder:
 
 ```
-StudentGradeTracker/lib/mysql-connector-j-9.0.0.jar
+StudentGradeTracker/lib/mysql-connector-j-9.7.0.jar
 ```
 
 ### 2. Update Database Credentials
@@ -111,7 +111,7 @@ private static final String DB_PASSWORD = "your_password";
 From inside the `StudentGradeTracker` folder, run:
 
 ```bash
-javac -d bin -cp "lib/mysql-connector-j-9.0.0.jar" src/model/*.java src/database/*.java src/service/*.java src/util/*.java src/Main.java
+javac -d bin -cp "lib/mysql-connector-j-9.7.0.jar" src/model/*.java src/database/*.java src/service/*.java src/util/*.java src/Main.java
 ```
 
 This compiles all source files into a `bin/` output folder while preserving the package structure.
@@ -120,12 +120,12 @@ This compiles all source files into a `bin/` output folder while preserving the 
 
 **On macOS/Linux:**
 ```bash
-java -cp "bin:lib/mysql-connector-j-9.0.0.jar" Main
+java -cp "bin:lib/mysql-connector-j-9.7.0.jar" Main
 ```
 
 **On Windows:**
 ```bash
-java -cp "bin;lib/mysql-connector-j-9.0.0.jar" Main
+java -cp "bin;lib/mysql-connector-j-9.7.0.jar" Main
 ```
 
 ### 5. Using VS Code Directly
@@ -163,30 +163,39 @@ Enter Choice:
 
 ### Main Menu
 ![Main Menu](screenshots/main-menu.png)
+---
 
 ### Add Student
 ![Add Student](screenshots/add-student.png)
+---
 
 ### View Students
 ![View Students](screenshots/view-students.png)
+---
 
 ### Search Student by Roll Number
 ![Search Roll](screenshots/search-roll.png)
+---
 
 ### Search Student by Name
 ![Search Name](screenshots/search-name.png)
+---
 
 ### Update Student
 ![Update Student](screenshots/update-student.png)
+---
 
 ### Delete Student
 ![Delete Student](screenshots/delete-student.png)
+---
 
 ### Calculate Result
 ![Calculate Result](screenshots/calculate-result.png)
+---
 
 ### Summary Report
 ![Summary Report](screenshots/summary-report.png)
+---
 
 ### Exit
 ![Exit](screenshots/exit.png)
